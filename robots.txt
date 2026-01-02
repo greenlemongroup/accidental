@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://accidental.gg/sitemap.xml
